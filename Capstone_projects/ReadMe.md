@@ -67,6 +67,6 @@ Derive any insights from the Data Set.
   - The Data Architecture.
   - The choice of tools 🛠️
 - Well documented read me of the project in Github.
-- Project submission is on [ PENDING TUTOR FINAL REVIEW ] .
-  - Github link should be submitted in the link HERE
+- Project submission will close on the 20th November, 2024.
+  - Github link should be submitted in the link [HERE](https://forms.gle/osnNmo7JyGkQeXnb8)
 
